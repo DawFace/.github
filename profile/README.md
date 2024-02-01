@@ -1,4 +1,4 @@
-<img src='../assets/banner_img.png'/>
+<img src="https://static.vecteezy.com/system/resources/previews/007/119/489/original/illustration-sunset-with-clouds-as-background-image-or-template-vector.jpg" style="width: 100%;" />
 
 # 🚀 Welcome to DawFace
 Welcome to __DawFace__, our go-to GitHub organization for face recognition project!
